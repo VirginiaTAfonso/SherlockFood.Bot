@@ -2,7 +2,9 @@
 
 ## Resumo do Projeto
 
-SherlockFood é um chatbot inteligente desenvolvido em Python que auxilia usuários a entenderem melhor os rótulos de alimentos em relação aos seus objetivos de saúde e nutrição. Ao enviar uma foto nítida do rótulo de um alimento, o bot utiliza a poderosa API do Gemini (Google AI) para analisar o conteúdo do rótulo e fornecer uma classificação (em português claro para o usuário leigo: **RECOMENDADO**, **AS_VEZES**, **NAO_INDICADO**, **NÃO_ALIMENTO**) juntamente com um breve resumo dos principais nutrientes e informações relevantes para o objetivo selecionado pelo usuário (emagrecimento, vida saudável, consumo de proteína).
+Video: https://www.youtube.com/shorts/hYpYJ3dR-bU
+
+SherlockFood é um chatbot inteligente desenvolvido em Python que auxilia usuários a entenderem melhor os rótulos de alimentos em relação aos seus objetivos de saúde e nutrição. Ao enviar uma foto nítida do rótulo de um alimento, o bot utiliza a poderosa API do Gemini (Google AI) para analisar o conteúdo do rótulo e fornecer uma classificação (em português claro para o usuário leigo: **RECOMENDADO**, **AS_VEZES**, **NAO_INDICADO**) juntamente com um breve resumo dos principais nutrientes e informações relevantes para o objetivo selecionado pelo usuário (emagrecimento, vida saudável, consumo de proteína).
 
 O bot guia o usuário através de uma conversa simples, primeiro solicitando o objetivo desejado e, em seguida, pedindo a foto do rótulo para análise. Após a análise, apresenta a classificação de forma clara e um resumo conciso em tópicos, sugerindo uma quantidade ideal de consumo diário (se aplicável) e uma opção de substituição saudável (se possível), tornando a interpretação de rótulos mais acessível e informada.
 
